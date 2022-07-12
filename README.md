@@ -21,9 +21,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutraafelipe&layout=compact&theme=dark&hide_border=true&count_private=true">
 </p>
 
-<p align='center'>
-  📫 How to reach me: <a href='mailto:dutraafelipe10@gmail.com'>dutraafelipe10@gmail.com</a>
-</p>
+<p align='center'>📫 How to reach me: <a href='mailto:dutraafelipe10@gmail.com'>dutraafelipe10@gmail.com</a></p>
 
 **💻 Tech**
 
