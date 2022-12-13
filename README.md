@@ -13,8 +13,6 @@
 
 <p align='center'>📫 How to reach me: <a href='mailto:dutraafelipe10@gmail.com'>dutraafelipe10@gmail.com</a></p>
 
-<p align='center'><a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dutraafelipe&layout=compact&theme=dark&hide_border=true&count_private=true"></p>
-
 <h3>💻 Tech</h3>
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
