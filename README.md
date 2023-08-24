@@ -23,7 +23,6 @@
 <h3>Education</h3>
 
 - 📖 **Computer Engineering**\
-📆 2014 - Current\
 📍 **State University of Maranhão** - São Luís/MA, Brazil
 
 <h3>Experience</h3>
